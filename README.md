@@ -1,3 +1,5 @@
+## 常用网站
+[vmovier](https://www.vmovier.com/)
 ## linux基本环境配置
 [zsh安装](https://blog.csdn.net/lxn9492878lbl/article/details/80795413)  
 [zsh主题](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)  
@@ -8,10 +10,15 @@
 ## api文档
 [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
-[ tensorflow](https://docs.w3cub.com/tensorflow~python/)
+[tensorflow](https://docs.w3cub.com/tensorflow~python/)
 ## 源码学习
 [ngnix源码解析](https://blog.csdn.net/yangyin007/article/details/82777086)
 ## 好用的工具网站
 [百度脑图](https://naotu.baidu.com/)
 [process on](https://www.processon.com/)
 [c++shell](http://cpp.sh/)
+### wsl2安装
+- [wsl2环境配置](https://zhuanlan.zhihu.com/p/144583887)
+- [wsl2安装cuda](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
+## bugggggggggggggggggg
+### 
