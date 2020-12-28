@@ -12,7 +12,7 @@
 [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
 [tensorflow](https://docs.w3cub.com/tensorflow~python/)
 ## 源码学习
-[ngnix源码解析](https://blog.csdn.net/yangyin007/article/details/82777086)
+[ngnix源码解析](https://blog.csdn.net/initphp/category_9265172.html)
 ## 好用的工具网站
 [百度脑图](https://naotu.baidu.com/)
 [process on](https://www.processon.com/)
