@@ -22,9 +22,12 @@
 - [百度脑图](https://naotu.baidu.com/)
 - [process on](https://www.processon.com/)
 - [c++shell](http://cpp.sh/)
+- [菜鸟教程](https://www.runoob.com/)
+- [51 自学](https://www.51zxw.net/)
 ### wsl2安装
 - [wsl2环境配置](https://zhuanlan.zhihu.com/p/144583887)
 - [wsl2安装cuda](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
+- [LxRunOffline安装其他盘](https://github.com/DDoSolitary/LxRunOffline/wiki)
 ## bugggggggggggggggggg
 ### tensorflow
 ### torch
