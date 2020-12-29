@@ -35,3 +35,5 @@
 ## bugggggggggggggggggg
 ### tensorflow
 ### torch
+### conda
+- [change conda source](https://blog.csdn.net/guilutian0541/article/details/81004769)
