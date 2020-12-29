@@ -29,6 +29,8 @@
 - [wsl2环境配置](https://zhuanlan.zhihu.com/p/144583887)
 - [wsl2安装cuda](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
 - [LxRunOffline安装其他盘](https://github.com/DDoSolitary/LxRunOffline/wiki)
+### ubuntu2004
+- [安装cuda10.1](https://blog.csdn.net/wwlswj/article/details/106364094)
 ## bugggggggggggggggggg
 ### tensorflow
 ### torch
