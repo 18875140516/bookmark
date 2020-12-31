@@ -13,6 +13,7 @@
 - [redis安装](https://www.runoob.com/redis/redis-install.html)
 - [vscode配置c++](https://www.jb51.net/article/186868.htm)
 - [c++后台开发路线](https://blog.csdn.net/linyacool/article/details/84560901)
+- [cmake学习](https://blog.csdn.net/zhw864680355/article/details/80821761)
 ## api文档
 - [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 - [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
