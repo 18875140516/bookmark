@@ -6,11 +6,13 @@
 - [vim配置-theCW](https://www.bilibili.com/video/BV164411P7tw)
 ## 后台开发
 - [C++后台开发学习路线(秋招，C++后台，面经)](https://blog.csdn.net/linyacool/article/details/84560901)  
-- [博客学习](http://www.linya.pub/)  
+- [后台开发博客学习](http://www.linya.pub/)  
 - [vscode配置c++环境](https://www.jb51.net/article/186868.htm)  
 - [ngnix推流搭建rtmp](https://blog.csdn.net/qinbin2015/article/details/90667937)
 - [mount命令](https://blog.csdn.net/cscmaker/article/details/7258197)
 - [redis安装](https://www.runoob.com/redis/redis-install.html)
+- [vscode配置c++](https://www.jb51.net/article/186868.htm)
+- [c++后台开发路线](https://blog.csdn.net/linyacool/article/details/84560901)
 ## api文档
 - [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 - [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
