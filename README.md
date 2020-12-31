@@ -14,12 +14,14 @@
 - [vscode配置c++](https://www.jb51.net/article/186868.htm)
 - [c++后台开发路线](https://blog.csdn.net/linyacool/article/details/84560901)
 - [cmake学习](https://blog.csdn.net/zhw864680355/article/details/80821761)
+- [makefile](https://www.cnblogs.com/wang_yb/p/3990952.html)
 ## api文档
 - [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 - [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
 - [tensorflow](https://docs.w3cub.com/tensorflow~python/)
 - [ffmpeg](http://www.ffmpeg.org/developer.html)
 - [opencv](https://docs.opencv.org/4.5.1/)
+- [cmake](https://cmake.org/cmake/help/v3.10/)
 ## 源码学习
 - [ngnix源码解析](https://blog.csdn.net/initphp/category_9265172.html)  
 - [雷霄骅ffmpeg](https://blog.csdn.net/leixiaohua1020/article/details/44220151)
