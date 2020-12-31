@@ -10,6 +10,7 @@
 - [vscode配置c++环境](https://www.jb51.net/article/186868.htm)  
 - [ngnix推流搭建rtmp](https://blog.csdn.net/qinbin2015/article/details/90667937)
 - [mount命令](https://blog.csdn.net/cscmaker/article/details/7258197)
+- [redis安装](https://www.runoob.com/redis/redis-install.html)
 ## api文档
 - [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 - [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
