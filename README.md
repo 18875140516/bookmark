@@ -22,6 +22,7 @@
 - [ffmpeg](http://www.ffmpeg.org/developer.html)
 - [opencv](https://docs.opencv.org/4.5.1/)
 - [cmake](https://cmake.org/cmake/help/v3.10/)
+- [shell命令](https://www.runoob.com/linux/linux-command-manual.html)
 ## 源码学习
 - [ngnix源码解析](https://blog.csdn.net/initphp/category_9265172.html)  
 - [雷霄骅ffmpeg](https://blog.csdn.net/leixiaohua1020/article/details/44220151)
