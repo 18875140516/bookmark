@@ -1,6 +1,7 @@
 ## 常用网站
 - [vmovier](https://www.vmovier.com/)
 - [西部世界](westss.online)
+- [CSDN博客](https://blog.csdn.net/qq_37438415)
 ## linux基本环境配置
 - [zsh安装](https://blog.csdn.net/lxn9492878lbl/article/details/80795413)  
 - [zsh主题](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)
