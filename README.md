@@ -52,9 +52,6 @@
 - [change conda source](https://blog.csdn.net/guilutian0541/article/details/81004769)
 <details>
 <summary>展开查看</summary>
-<pre><code>
-System.out.println("Hello to see U!");
-dasdasdasd
-</code></pre>
-- dsadasd
+[dsadas](dasdasdas)
+[dsadas](dasda)
 </details>
