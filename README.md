@@ -50,9 +50,3 @@
 ### torch
 ### conda
 - [change conda source](https://blog.csdn.net/guilutian0541/article/details/81004769)
-<details>
-<summary>展开查看</summary>
-- [wsl2环境配置](https://zhuanlan.zhihu.com/p/144583887)
-- [wsl2安装cuda](https://docs.nvidia.com/cuda/wsl-user-guide/index.html)
-- [LxRunOffline安装其他盘](https://github.com/DDoSolitary/LxRunOffline/wiki)
-</details>
