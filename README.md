@@ -19,6 +19,7 @@
 - [makefile](https://www.cnblogs.com/wang_yb/p/3990952.html)
 - [接口测试](https://postwoman.io/)
 - [activemq-ubuntu安装](https://blog.csdn.net/qq_37438415/article/details/112189347)
+- [protocol Buffer](https://developers.google.com/protocol-buffers/docs/cpptutorial)
 ## api文档
 - [json-cpp](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)
 - [mqtt-c](https://www.eclipse.org/paho/files/mqttdoc/MQTTClient/html/index.html)
