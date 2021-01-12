@@ -52,4 +52,5 @@
 ### tensorflow
 ### torch
 ### conda
+- [语义分割模型](https://blog.csdn.net/qq_38502918/article/details/104613661)
 - [change conda source](https://blog.csdn.net/guilutian0541/article/details/81004769)
