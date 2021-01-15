@@ -56,6 +56,7 @@
 - [语义分割与实例分割](https://zhuanlan.zhihu.com/p/303355997)
 - [语义分割数据集](https://zhuanlan.zhihu.com/p/50925449)
 - [Multi-Human- parsing数据集](https://lv-mhp.github.io/dataset)
+- [bodypix库](https://pypi.org/project/tf-bodypix/)
 - [语义分割综述](https://www.cnblogs.com/Jie-Liang/p/6902375.html)
 - [change conda source](https://blog.csdn.net/guilutian0541/article/details/81004769)
 - [BiSeNet](https://github.com/ycszen/BiSeNet)
